@@ -13,5 +13,4 @@ int main() {
     else{
         printf("-1");
     }
-    return 0;
 }
