@@ -148,5 +148,5 @@ int main() {
     }
     printf("%d %d %d %d %d %d %d %d %d %d",a,b,c,d,e,f,g,h,i,j);
 
-    
+    retur 0;
 }
