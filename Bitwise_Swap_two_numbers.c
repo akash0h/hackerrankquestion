@@ -7,5 +7,5 @@ int main() {
     printf("%d\n",B);
     printf("%d\n",A);
     
-    return 0;
+    return 5;
 }
