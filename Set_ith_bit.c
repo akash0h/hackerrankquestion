@@ -7,5 +7,5 @@ int main() {
     a=a | (1<<i);
     printf("%d",a);
     
-    return 0;
+
 }
