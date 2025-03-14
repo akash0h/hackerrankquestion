@@ -38,5 +38,5 @@ int main() {
         printf("Cannot form a valid shape.");
     }
     
-    return 0;
+
 }
