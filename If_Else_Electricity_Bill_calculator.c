@@ -38,5 +38,5 @@ int main() {
     else if(unit<-1000000){
         printf("Invalid Input!");
     }
-    return 0;
+  
 }
