@@ -5,5 +5,5 @@ int main() {
     scanf("%d",&num);
         printf("%d",num&(-num));
     
-    return 0;
+   
 }
