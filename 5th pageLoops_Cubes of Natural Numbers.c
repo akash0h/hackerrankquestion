@@ -9,5 +9,5 @@ int main() {
         int c=(i*i)*i;
         printf("%d ",c);
     }
-   
+   return 0;
 }
