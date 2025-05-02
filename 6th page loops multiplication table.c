@@ -11,5 +11,5 @@ int main() {
         printf("%d x %d = %d",n,c,d);
         printf("\n");
     }
-    return 0;
+
 }
