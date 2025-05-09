@@ -30,5 +30,5 @@ int main() {
     else{
         printf("Shape Not Possible");
     }
-    return 0;
+
 }
