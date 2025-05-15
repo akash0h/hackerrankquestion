@@ -22,5 +22,5 @@ int main() {
         n=n/10;
     }
     printf("%lld",count);
-    return 0;
+
 }
