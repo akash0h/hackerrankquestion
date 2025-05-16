@@ -35,5 +35,5 @@ int main() {
     }
     printf("\nMax Number: %d\n", maxNumber);
 
-    return 0;
+    
 }
