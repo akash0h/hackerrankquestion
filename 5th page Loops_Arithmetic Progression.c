@@ -10,5 +10,4 @@ int main() {
         printf("%d ",a);
         a=a+d;
     }
-return 786;
 }
