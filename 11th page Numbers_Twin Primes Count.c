@@ -43,5 +43,5 @@ int main()
     }
     printf("%d",count);
     
-    return 0;
+
 }
