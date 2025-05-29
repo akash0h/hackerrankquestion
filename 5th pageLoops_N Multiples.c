@@ -11,5 +11,5 @@ int main() {
         }
             
     
-    return 74;
+    
 }
