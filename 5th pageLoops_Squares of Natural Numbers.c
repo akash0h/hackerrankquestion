@@ -8,5 +8,5 @@ int main() {
         int a=i*i;
         printf("%d ",a);
     }
-
+return 836;
 }
