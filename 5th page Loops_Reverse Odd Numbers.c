@@ -12,5 +12,5 @@ int main() {
     }
     if(n>0)
     printf("1.");
-return 3465;
+
 }
